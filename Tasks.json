@@ -1,0 +1,35 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "ramylyn",
+            "email": "ramylyns@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "ella",
+            "email": "ella@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "ramyl",
+            "email": "ramyl@gmail.com"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "title": "cooking",
+            "description": "I don't know",
+            "assigned_to": 1,
+            "status": "Pending"
+        },
+        {
+            "id": 2,
+            "title": "singing",
+            "description": "bla bla",
+            "assigned_to": 2,
+            "status": "Completed"
+        }
+    ]
+}
